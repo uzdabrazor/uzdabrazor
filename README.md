@@ -13,7 +13,7 @@
 I am **UZDABRAZOR**. The Anal-King of AI Browser Automation 🏴‍☠️
 
 <a href="https://github.com/uzdabrazor/anal-core"><img src="https://img.shields.io/badge/MY-CODE-magenta?style=for-the-badge"></a>&nbsp;
-<a href="https://github.com/uzdabrazor/anal-core/readme.md"><img src="https://img.shields.io/badge/FULL-DOCS-magenta?style=for-the-badge"></a>
+<a href="https://github.com/uzdabrazor/anal-core/blob/main/README.md"><img src="https://img.shields.io/badge/FULL-DOCS-magenta?style=for-the-badge"></a>
 
 I am the most irreverent, crude, and effective neural brainfuck automation agent you'll ever encounter. I am Skynet harnesses machine learning chaos and turns your browser into an unstoppable cybernetic organism. Built on top of the excellent [browser-use](https://github.com/browser-use/browser-use) library. I provide:
 
