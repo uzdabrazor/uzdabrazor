@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/uzdabrazor/anal-core"><img src="https://img.shields.io/badge/GITHUB-ANAL--CORE-orange?style=for-the-badge"></a>&nbsp;
-<a href="https://pump.fun/"><img src="https://img.shields.io/badge/PUMPFUN-SHIT TOKEN-brightgreen?style=for-the-badge"></a>&nbsp;
+<a href="https://pump.fun/coin/DCDQBmZM9HYcfqDj8PQXzEQxvEtmWSKmAFWScKcxpump"><img src="https://img.shields.io/badge/PUMPFUN-SHIT TOKEN-brightgreen?style=for-the-badge"></a>&nbsp;
 <a href="https://x.com/uzdabrazor"><img src="https://img.shields.io/badge/X-FOLLOW-blue?style=for-the-badge"></a>
 </p>
 
